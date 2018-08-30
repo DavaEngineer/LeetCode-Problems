@@ -12,8 +12,8 @@ void fizzBuzz(int foo) {
 }
 
 void main() {
-  for (var i = 1; i <= 100; i++) {
-    fizzBuzz(i);
-  }
+ for (var i = 1; i <= 100; i++) {
+   fizzBuzz(i);
+ }
 }
 ```
